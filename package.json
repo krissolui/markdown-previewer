@@ -1,5 +1,5 @@
 {
-	"name": "markdown-preview",
+	"name": "markdown-previewer",
 	"author": "Kris Lui",
 	"description": "A web application to preview Markdown content.",
 	"private": true,
